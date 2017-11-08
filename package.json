@@ -1,0 +1,23 @@
+{
+  "name": "scrapping_js",
+  "version": "1.0.0",
+  "description": "JavaScript scrapping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/damenor/js_scrapping.git"
+  },
+  "keywords": [
+    "scrapping",
+    "javascript"
+  ],
+  "author": "damenor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damenor/js_scrapping/issues"
+  },
+  "homepage": "https://github.com/damenor/js_scrapping#readme"
+}
